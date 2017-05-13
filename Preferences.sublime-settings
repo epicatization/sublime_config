@@ -1,0 +1,81 @@
+{
+	"binary_file_patterns":
+	[
+		"tmp/cache/**",
+		"tmp/**",
+		"public/**",
+		"node_modules/**",
+		"old_spec/**",
+		"log/**",
+		"*.jpg",
+		"*.jpeg",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip"
+	],
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 2,
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/User/Railscasts Extended (Flake8Lint).tmTheme",
+	"detect_indention": false,
+	"draw_white_space": "selection",
+	"ensure_newline_at_eof_on_save": true,
+	"excluded_files":
+	[
+		"tmp/cache/**",
+		"node_modules/**",
+		"old_spec/**",
+		"log/**"
+	],
+	"font_size": 14,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"JSTL syntax",
+		"KeyboardSpellCheck",
+		"MarkdownEditing",
+		"RegexExplainTip",
+		"SublimeCodeIntel",
+		"Tag",
+		"Vintage",
+		"WakaTime"
+	],
+	"indent_guide_options":
+	[
+		"draw_active",
+		"draw_normal"
+	],
+	"overlay_scroll_bars": "enabled",
+	"remember_open_files": true,
+	"rulers":
+	[
+		120
+	],
+	"show_encoding": true,
+	"show_full_path": true,
+	"tab_size": 2,
+	"theme": "gruvbox (Dark) (Soft).sublime-theme",
+	"theme_accent_sky": true,
+	"theme_button_rounded": true,
+	"theme_find_panel_close_hidden": true,
+	"theme_grid_border_size_lg": true,
+	"theme_icon_button_highlighted": true,
+	"theme_icons_atomized": true,
+	"theme_popup_border_visible": true,
+	"theme_scrollbar_rounded": true,
+	"theme_sidebar_disclosure": true,
+	"theme_sidebar_indent_top_level_disabled": true,
+	"theme_tab_rounded": true,
+	"theme_tab_selected_prelined": true,
+	"theme_tab_separator": true,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
