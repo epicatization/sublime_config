@@ -1,0 +1,13 @@
+{
+	"command_hash":
+	{
+		"encoding": "utf-8",
+		"env":
+		{
+		},
+		"file_regex": "([^ ]*\\.rb):?(\\d*)",
+		"shell_cmd": "( cd /Users/epic/apps/lawbotics_v2 && /Users/epic/.rvm/bin/rvm-auto-ruby -S zeus rspec app/controllers/main_controller.rb)",
+		"syntax": "Packages/TestRSpec/themes/TestConsole.tmLanguage",
+		"working_dir": "/Users/epic/apps/lawbotics_v2"
+	}
+}

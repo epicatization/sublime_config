@@ -1,0 +1,5 @@
+{
+  "check_for_spring": false,
+  "rspec_command": "zeus rspec",
+  "check_for_bundler": false,
+}

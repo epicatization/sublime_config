@@ -1,0 +1,7 @@
+{
+  "Ruby": {
+      "ruby": "/home/epic/.rvm/bin/rvm-auto-ruby",
+      "rubyExtraPaths": []
+  },
+  "codeintel_scan_files_in_project": true,
+}

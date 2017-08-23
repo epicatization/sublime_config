@@ -1,6 +1,7 @@
 {
 	"binary_file_patterns":
 	[
+		"app/assets/webpack/**",
 		"tmp/cache/**",
 		"tmp/**",
 		"public/**",
@@ -24,12 +25,13 @@
 	"caret_extra_top": 3,
 	"caret_extra_width": 2,
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/User/Railscasts Extended (Flake8Lint).tmTheme",
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
 	"detect_indention": false,
 	"draw_white_space": "selection",
 	"ensure_newline_at_eof_on_save": true,
 	"excluded_files":
 	[
+		"app/assets/webpack/**",
 		"tmp/cache/**",
 		"node_modules/**",
 		"old_spec/**",
@@ -55,6 +57,16 @@
 	],
 	"overlay_scroll_bars": "enabled",
 	"remember_open_files": true,
+	"replacements":
+	{
+		"js_class":
+		{
+			"case": false,
+			"find": " class=\"",
+			"greedy": true,
+			"replace": " className=\""
+		}
+	},
 	"rulers":
 	[
 		120
@@ -62,7 +74,7 @@
 	"show_encoding": true,
 	"show_full_path": true,
 	"tab_size": 2,
-	"theme": "gruvbox (Dark) (Soft).sublime-theme",
+	"theme": "Afterglow-green.sublime-theme",
 	"theme_accent_sky": true,
 	"theme_button_rounded": true,
 	"theme_find_panel_close_hidden": true,
