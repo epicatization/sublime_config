@@ -5,24 +5,24 @@
 	<key>comment</key>
 	<string>http://chriskempson.com</string>
 	<key>name</key>
-	<string>Tomorrow Night - Eighties</string>
+	<string>Tomorrow Night</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#2D2D2D</string>
+				<string>#1D1F21</string>
 				<key>caret</key>
-				<string>#CCCCCC</string>
+				<string>#AEAFAD</string>
 				<key>foreground</key>
-				<string>#CCCCCC</string>
+				<string>#C5C8C6</string>
 				<key>invisibles</key>
-				<string>#6A6A6A</string>
+				<string>#4B4E55</string>
 				<key>lineHighlight</key>
-				<string>#393939</string>
+				<string>#282A2E</string>
 				<key>selection</key>
-				<string>#515151</string>
+				<string>#373B41</string>
 			</dict>
 		</dict>
 		<dict>
@@ -46,18 +46,18 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#CCCCCC</string>
+				<string>#CED1CF</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Variable, String Link, Tag Name</string>
+			<string>Variable, String Link, Regular Expression, Tag Name</string>
 			<key>scope</key>
-			<string>variable, support.other.variable, string.other.link, entity.name.tag, entity.other.attribute-name, meta.tag, declaration.tag</string>
+			<string>variable, support.other.variable, string.other.link, string.regexp, entity.name.tag, entity.other.attribute-name, meta.tag, declaration.tag</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F2777A</string>
+				<string>#CC6666</string>
 			</dict>
 		</dict>
 		<dict>
@@ -70,7 +70,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#F99157</string>
+				<string>#DE935F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -83,7 +83,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#FFCC66</string>
+				<string>#F0C674</string>
 			</dict>
 		</dict>
 		<dict>
@@ -96,7 +96,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#99CC99</string>
+				<string>#B5BD68</string>
 			</dict>
 		</dict>
 		<dict>
@@ -107,7 +107,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#66CCCC</string>
+				<string>#8ABEB7</string>
 			</dict>
 		</dict>
 		<dict>
@@ -120,7 +120,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#6699CC</string>
+				<string>#81A2BE</string>
 			</dict>
 		</dict>
 		<dict>
@@ -133,7 +133,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#CC99CC</string>
+				<string>#B294BB</string>
 			</dict>
 		</dict>
 		<dict>
@@ -144,11 +144,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#F2777A</string>
+				<string>#DF5F5F</string>
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#CDCDCD</string>
+				<string>#CED2CF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -159,9 +159,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#99CCCC</string>
+				<string>#82A3BF</string>
 				<key>foreground</key>
-				<string>#CDCDCD</string>
+				<string>#CED2CF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -172,11 +172,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#CC99CC</string>
+				<string>#B798BF</string>
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#CDCDCD</string>
+				<string>#CED2CF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -303,6 +303,6 @@
             </dict>
         </dict></array>
 	<key>uuid</key>
-	<string>DE477E5B-BD4D-46B0-BF80-2EA32A2814D5</string>
+	<string>F96223EB-1A60-4617-92F3-D24D4F13DB09</string>
 </dict>
 </plist>

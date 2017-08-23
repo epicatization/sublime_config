@@ -15,9 +15,9 @@
 		"Capybara Snippets",
 		"ColorSchemeSelector",
 		"CSS Snippets",
-		"Dayle Rees Color Schemes",
 		"EditorConfig",
 		"Emmet",
+		"ESLint-Formatter",
 		"FAlign",
 		"FileDiffs",
 		"GitSavvy",
@@ -28,8 +28,11 @@
 		"LoremGibson",
 		"Package Control",
 		"Package Syncing",
+		"PackageResourceViewer",
 		"Pretty JSON",
 		"Rails Latest Migration",
+		"RailsCasts Colour Scheme",
+		"Railscasts Extended",
 		"React ES6 Snippets",
 		"RSpec",
 		"Ruby Block Converter",
@@ -52,6 +55,7 @@
 		"Theme - Afterglow",
 		"Themes Menu Switcher",
 		"ToggleQuotes",
+		"Tomorrow Color Schemes",
 		"TrailingSpaces"
 	]
 }

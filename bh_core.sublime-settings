@@ -1,0 +1,14 @@
+{
+    "content_highlight_bar": true,
+    "align_content_highlight_bar": true,
+    "bracket_styles": {
+        "default": {
+            "icon": "dot",
+            "color": "brackethighlighter.default",
+            "style": "highlight"
+        },
+    },
+
+
+
+}

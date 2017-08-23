@@ -1,0 +1,6 @@
+{
+  "local_eslint_path": {
+    "osx": "client/node_modules/.bin/eslint"
+  },
+  "format_on_save": true,
+}
